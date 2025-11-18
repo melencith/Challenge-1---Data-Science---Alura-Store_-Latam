@@ -1,4 +1,4 @@
-# Proyecto Alura Store 
+# Proyecto Alura Store
 
 - El propósito del análisis realizado.
 
