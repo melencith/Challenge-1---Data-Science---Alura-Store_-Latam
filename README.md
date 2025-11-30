@@ -86,3 +86,7 @@ Dentro del notebook encontrarás secciones dedicadas a:
 - La Tienda 4 tiene menor facturación, pero ofrece menor costo logístico.
 - El análisis geográfico muestra áreas clave de crecimiento y zonas donde el rendimiento no coincide con el potencial.
 - Existen patrones espaciales que influencian los ingresos y la satisfacción del cliente.
+
+## ✍️ Autor
+#### Milagros Coronado Castro
+Proyecto realizado como parte del curso Alura Latam – Data Science
